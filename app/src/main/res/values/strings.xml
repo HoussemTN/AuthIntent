@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AuthIntent</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Email</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="connect">Connect</string>
+    <string name="image_content_description">Description</string>
+
+</resources>
